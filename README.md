@@ -8,4 +8,4 @@ GitHub power !
 
 ## local development
 
-open index.html in your browser 
+open index.html in your browser 1
