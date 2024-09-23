@@ -10,4 +10,4 @@ GitHub power !
 
 open index.html in your browser 1
 
-try again
+try again my friend
